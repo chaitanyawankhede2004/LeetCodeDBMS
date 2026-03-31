@@ -34,3 +34,27 @@ This repo contains well-structured solutions to commonly asked **DBMS / SQL inte
 ---
 
 ## 📁 Folder Structure
+
+Each folder contains:
+- ✅ Problem Statement
+- 💡 Approach
+- 🧾 SQL Query Solution
+
+---
+
+## 🧑‍💻 Sample Problems
+
+| Problem | Concept |
+|--------|--------|
+| Rank Scores | Window Functions |
+| Consecutive Numbers | LAG / LEAD |
+| Employees Earning More Than Manager | Self Join |
+| Top 3 Salaries per Department | DENSE_RANK |
+
+---
+
+## ⚡ How to Use
+
+1. Clone the repo:
+```bash
+git clone https://github.com/chaitanyawankhede2004/LeetCodeDBMS.git
